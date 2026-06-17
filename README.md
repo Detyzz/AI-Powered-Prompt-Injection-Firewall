@@ -39,8 +39,8 @@ The project works in two modes:
 ### 1. Clone your repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Detyzz/AI-Powered-Prompt-Injection-Firewall.git
+cd AI-Powered-Prompt-Injection-Firewall
 ```
 
 ### 2. Create a virtual environment
